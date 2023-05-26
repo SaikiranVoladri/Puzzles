@@ -1,4 +1,4 @@
-PUZZLE ON COINS
+//PUZZLE ON COINS
 suppose there are 10 bags and in each bag it contains 10 coins.
 one coin weights 1 gram while in one of ten bags contains the coins which has 1.1grams weight each 10 coins.
 Now you need to tell which bag contains the coin with more weight.
@@ -6,6 +6,6 @@ Now you need to tell which bag contains the coin with more weight.
 ans:
 take 1 coin from 1st bag , 2 coins from 2nd bag ,............10 coins from 10th bag 
 
-now by using weight machine you can tell the which bag contains more weight
-ex: if bag5 contains more weight coins then 1+2+3+4+5.5+6+7+8+9+10 = 55.5(.5) came from 5th bag .if it is (.2) it is from bag 2
+//now by using weight machine you can tell the which bag contains more weight
+//ex: if bag5 contains more weight coins then 1+2+3+4+5.5+6+7+8+9+10 = 55.5(.5) came from 5th bag .if it is (.2) it is from bag 2
 
